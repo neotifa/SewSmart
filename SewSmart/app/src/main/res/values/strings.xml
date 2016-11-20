@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SewSmart</string>
+
+    <string name="username_prompt">username</string>
+    <string name="password_prompt">password</string>
+
+    <string name="button_submit">Submit</string>
+    <string name="google_sux">Sign In w/ G+ (pretend this is legit)</string>
+</resources>
