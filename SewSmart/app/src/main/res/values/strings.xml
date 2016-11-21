@@ -6,4 +6,5 @@
 
     <string name="button_submit">Submit</string>
     <string name="google_sux">Sign In w/ G+ (pretend this is legit)</string>
+    <string name="view_last_run">View Last Run</string>
 </resources>
